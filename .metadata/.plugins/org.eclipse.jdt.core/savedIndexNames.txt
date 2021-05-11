@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/karinalopez/Downloads/EM/Practica3/Parte 1 - Material Practica 20-21 (codigo app legacy)/GestionAsignaturas - CodigoFuente/.metadata/.plugins/org.eclipse.jdt.core
+3128207647.index
+3070395366.index
